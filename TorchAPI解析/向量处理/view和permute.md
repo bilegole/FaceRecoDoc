@@ -1,0 +1,1 @@
+view和permute都是 
